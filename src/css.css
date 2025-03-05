@@ -1,0 +1,11 @@
+body
+{
+   width: 100%;
+   Height: 100%;
+}
+#main_body
+{
+    background: #ff3333;
+    width: 200px;
+    position: absolute;
+}
